@@ -1,3 +1,5 @@
+#The main author of this code is Aparna Gupta. The maintenance and updates to this code are made by Prathyush Sambaturu.
+
 from gurobipy import *
 import argparse
 from datetime import datetime
